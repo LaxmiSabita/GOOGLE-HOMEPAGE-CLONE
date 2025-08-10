@@ -15,9 +15,9 @@ Responsive layout for different screen sizes
 📂 Project Structure
 
 google-homepage-clone/
-│── index.html      # Main HTML file
-│── /css            # Styles (optional if separated)
-│── README.md       # Project documentation
+│ index.html      # Main HTML file
+│/css            # Styles (optional if separated)
+│README.md       # Project documentation
 
  How It Works
 
@@ -34,17 +34,15 @@ This is not an official Google product.
 The Google logo and brand are trademarks of Google LLC.
 They are used here only for educational purposes. For public use, replace the logo with your own.
 
-🛠️ Technologies Used
+Technologies Used
 
 HTML5
 
 CSS3
 
 
-📸 Preview
-
 
 
 📜 License
 
-This project is licensed under the MIT License you’re free to use, modify, and distribute, but replace copyrighted assets.
+This project is licensed under the MIT License 
